@@ -51,9 +51,8 @@ Instructions for Running the Code
 
 bash
 ## Copy code
-pip install matplotlib pandas numpy seaborn scikit-learn xgboost
-Run the Code:
-Execute the provided code cells in a Jupyter Notebook or any Python environment.
+## pip install matplotlib pandas numpy seaborn scikit-learn xgboost
+
 
 ## Note:
 
